@@ -3,8 +3,10 @@
 
 <p align="center">
 People dont READ anymore!!
-Heres why you SHOULD!
 
+<p align="center">
+ Heres why you should!
+  
 <p align="center">
   <a href="https://docs.google.com/presentation/d/1JC4FvT-BhBl3qXIFBJoCIJDV6Y1uuWdy-rEMOTatfOc/edit?usp=sharing">
     Google slides presentation!
